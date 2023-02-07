@@ -1,0 +1,14 @@
+C:\Users\ativv\OneDrive\Área de Trabalho\interfacarduino\interfaceArduinoVS2013\obj\Debug\TesteFinalQualidade.csproj.AssemblyReference.cache
+C:\Users\ativv\OneDrive\Área de Trabalho\interfacarduino\interfaceArduinoVS2013\obj\Debug\TesteFinalQualidade.csproj.SuggestedBindingRedirects.cache
+C:\Users\ativv\OneDrive\Área de Trabalho\interfacarduino\interfaceArduinoVS2013\obj\Debug\interfaceArduinoVS2013.exe
+C:\Users\ativv\OneDrive\Área de Trabalho\interfacarduino\interfaceArduinoVS2013\obj\Debug\interfaceArduinoVS2013.pdb
+C:\Users\ativv\OneDrive\Área de Trabalho\interfacarduino\interfaceArduinoVS2013\bin\Debug\interfaceArduinoVS2013.exe.config
+C:\Users\ativv\OneDrive\Área de Trabalho\interfacarduino\interfaceArduinoVS2013\bin\Debug\interfaceArduinoVS2013.exe
+C:\Users\ativv\OneDrive\Área de Trabalho\interfacarduino\interfaceArduinoVS2013\bin\Debug\interfaceArduinoVS2013.pdb
+C:\Users\ativv\OneDrive\Área de Trabalho\interfacarduino\interfaceArduinoVS2013\obj\Debug\interfaceArduinoVS2013.Properties.Resources.resources
+C:\Users\ativv\OneDrive\Área de Trabalho\interfacarduino\interfaceArduinoVS2013\obj\Debug\TesteFinalQualidade.csproj.GenerateResource.cache
+C:\Users\ativv\OneDrive\Área de Trabalho\interfacarduino\interfaceArduinoVS2013\obj\Debug\TesteFinalQualidade.csproj.CoreCompileInputs.cache
+C:\Users\ativv\OneDrive\Área de Trabalho\interfacarduino\interfaceArduinoVS2013\obj\Debug\interfaceArduinoVS2013.TesteFinalQualidade.resources
+C:\Users\ativv\OneDrive\Área de Trabalho\interfacarduino\interfaceArduinoVS2013\obj\Debug\interfaceArduinoVS2013.TelaInicial.resources
+C:\Users\ativv\OneDrive\Área de Trabalho\interfacarduino\interfaceArduinoVS2013\obj\Debug\interfaceArduinoVS2013.TesteSemiPronto.resources
+C:\Users\ativv\OneDrive\Área de Trabalho\interfacarduino\interfaceArduinoVS2013\obj\Debug\interfaceArduinoVS2013.TesteInicial.resources
